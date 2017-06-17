@@ -1,0 +1,17 @@
+{
+  "name": "aws-gateway-typescript",
+  "description": "AWS API Gateway typescript custom lib",
+  "repository": "",
+  "private": false,
+  "license": "MIT",
+  "author": "alanssoares",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/crypto-js": "^3.1.33",
+    "typescript": "^2.1.0",
+    "axios": "^0.16.2",
+    "uri-template": "^1.0.1",
+    "crypto-js": "^3.1.9-1",
+    "aws-sdk": "^2.38.0"
+  }
+}
